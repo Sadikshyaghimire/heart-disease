@@ -44,18 +44,6 @@ Distribution Plots:
 Numerical and categorical features to understand their distributions.
 Pie Charts:
 
-Proportions of features like Sex, ChestPainType, FastingBS, RestingECG, etc.
-Strip Plots:
-
-Feature-specific strip plots showing relationships between features and the presence of heart disease.
-How to Use
-Clone this repository:
-
-bash
-Copy code
-git clone https://github.com/your-username/heart-disease-analysis.git
-Navigate to the project directory:
-
 bash
 Copy code
 cd heart-disease-analysis
